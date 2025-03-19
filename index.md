@@ -4,6 +4,7 @@
 
 ### Security Projects
 
+---
 ### Validation of encryption algo's in use
 
 1. Checking the current set of communication encryption algorithms in use (Data in Transit)
@@ -11,6 +12,12 @@
 3. Checking compliance of the encryption algos in use compared to the published company standard
 
 ---
+### Remediation of Aged Vulnerabilties
+1. Investigate the reasons for aged vulnerabilities to still exist
+   a. Identify End of Life Operating Systems
+   b. Identify Legacy application still resident on End of Life Operating Systems
+3. Assigning categories and priorities to the legacy applications to be remediated
+4.  
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
