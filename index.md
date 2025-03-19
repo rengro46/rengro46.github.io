@@ -8,7 +8,7 @@
 
 1. Checking the current set of communication encryption algorithms in use (Data in Transit)
 2. Checking the encryption status of disk volumes (Data at Rest)
-3. Confirming compliance of the encryption algo;s in use compared to the published company standard
+3. Checking compliance of the encryption algos in use compared to the published company standard
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
