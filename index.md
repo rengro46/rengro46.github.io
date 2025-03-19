@@ -7,9 +7,7 @@
 ---
 ### Validation of encryption algo's in use
 
-1. Checking the current set of communication encryption algorithms in use (Data in Transit)
-2. Checking the encryption status of disk volumes (Data at Rest)
-3. Checking compliance of the encryption algos in use compared to the published company standard
+Checking the current set of communication encryption algorithms in use (Data in Transit) as well as the encryption status of disk volumes (Data at Rest). Finally to compare compliance of the encryption algos in use to the published company standard and gerating exception based reporting in PowerBI dashboard
 
 ---
 ### Remediation of Aged Vulnerabilties
@@ -17,9 +15,6 @@
    a. Identify End of Life Operating Systems
    b. Identify Legacy application still resident on End of Life Operating Systems
 3. Assigning categories and priorities to the legacy applications to be remediated
-4.  
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
