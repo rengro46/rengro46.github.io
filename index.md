@@ -4,7 +4,7 @@
 
 ### Security Projects
 
-[Project 1 Title](/sample_page)
+[Confirmation of encryption algo's in use](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
