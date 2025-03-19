@@ -1,8 +1,6 @@
-## Portfolio
-
 ---
 
-### Security Projects
+## Security Projects
 
 ---
 
@@ -19,7 +17,7 @@ Investigate the reasons for aged (>60days) vulnerabilities to still exist, ident
 [View project on github](https://github.com/rengro46/voice-quality)
 ---
 
-### Platform Architecture Projects
+## Platform Architecture Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -29,7 +27,7 @@ Investigate the reasons for aged (>60days) vulnerabilities to still exist, ident
 
 ---
 
-### Product Manager Projects
+## Product Manager Projects
 
 ---
 
