@@ -28,8 +28,7 @@
 ---
 
 ### Product Manager Projects
-- [Voice Quality Monitoring](http://github.com/rengro46/voice)
-example.com/)
+- [Voice Quality Monitoring](http://github.com/rengro46/voice-quality)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
