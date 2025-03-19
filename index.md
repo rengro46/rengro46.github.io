@@ -4,7 +4,12 @@
 
 ### Security Projects
 
-[Confirmation of encryption algo's in use](/sample_page)
+### Validation of encryption algo's in use
+
+1. Checking the current set of communication encryption algorithms in use (Data in Transit)
+2. Checking the encryption status of disk volumes (Data at Rest)
+3. Confirming compliance of the encryption algo;s in use compared to the published company standard
+In this project I used a number of security tools to extract server information pertaining secure communications on open ports. This information was saved to a database. In additionan, a catalog was created for QID's associated with SSL & TLS communication protocals. Then, using custom built queries a set of PowerBI reports were created to show the 
 <img src="images/crypto_algos.jpg?raw=true"/>
 
 ---
