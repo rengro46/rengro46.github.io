@@ -10,15 +10,13 @@
 
 Checking the current set of communication encryption algorithms in use (Data in Transit) as well as the encryption status of disk volumes (Data at Rest). Finally to compare compliance of the encryption algos in use to the published company standard and gerating exception based reporting in PowerBI dashboard
 
+[View project on github](https://github.com/rengro46/voice-quality)
 ---
 
 ### Remediation of Aged Vulnerabilties
-1. Investigate the reasons for aged vulnerabilities to still exist
-   a. Identify End of Life Operating Systems
-   b. Identify Legacy application still resident on End of Life Operating Systems
-3. Assigning categories and priorities to the legacy applications to be remediated
+Investigate the reasons for aged (>60days) vulnerabilities to still exist, identify the reasons for these vuilnerabilities to still exist, and compile a remediation plan for those addressable with priorities and categroisations
 
-
+[View project on github](https://github.com/rengro46/voice-quality)
 ---
 
 ### Platform Architecture Projects
