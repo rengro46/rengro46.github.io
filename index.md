@@ -5,7 +5,7 @@
 ### Security Projects
 
 [Confirmation of encryption algo's in use](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/crypto_algos.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
