@@ -32,7 +32,16 @@ Checking the current set of communication encryption algorithms in use (Data in 
 ---
 
 ### Product Manager Projects
-- [Voice Quality Monitoring](http://github.com/rengro46/voice-quality)
+
+---
+
+### Voice Quality Monitoring
+
+
+
+
+
+[view project on github] ()
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
