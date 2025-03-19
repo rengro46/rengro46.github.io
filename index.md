@@ -37,9 +37,7 @@ Checking the current set of communication encryption algorithms in use (Data in 
 
 ### Voice Quality Monitoring
 
-The creation of a 
-
-
+The creation of a voice quality monitoring sytem to track and report on real time quality metrics for Voice traffic on Managed Customer Call Centre environments and assit Voice Engineers to detect and eliminate any Voice traffic anomalies
 
 [View project on github](https://github.com/rengro46/voice-quality)
 
