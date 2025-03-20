@@ -56,6 +56,8 @@ Creating an API standard to be used by the business for all future System platfo
 
 ## Product Manager Projects
 
+<img src="images/product-management.jpg?raw=true" width=350 height=450/>
+
 ---
 
 ### Voice Quality Monitoring
