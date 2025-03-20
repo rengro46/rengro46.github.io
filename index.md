@@ -15,7 +15,8 @@ Checking the current set of communication encryption algorithms in use (Data in 
 ---
 
 ### Remediation of Aged Vulnerabilties
-Investigate the reasons for aged (>60days) vulnerabilities to still exist, identify the reasons for these vuilnerabilities to still exist, and compile a remediation plan for those addressable with priorities and categroisations
+
+Investigate the reasons for aged (>60days) vulnerabilities to still exist, identify the reasons for these vuilnerabilities to still exist, and compile a remediation plan for those addressable with priorities and categorisations
 
 [View project on github](https://github.com/rengro46/voice-quality)
 
@@ -25,11 +26,19 @@ Investigate the reasons for aged (>60days) vulnerabilities to still exist, ident
 
 ---
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Update of Company Software Portfolio Management System
+
+Consolidation and remediation of company outdated software asset portfolio and the automation of future inventory updates
+
+[View project on github](https://github.com/rengro46/voice-quality)
+
+---
+
+###  Design & deployment of workstation & server asset service record review system for Managed services clients
+
+Using the current asset management sytem inventory databases (SCCM, AD, MDM, Intune etc.) to populate the Service Record Review DataLake, which is then used to compare asset info in ServiceNow for Warranty info, incidents & service requests logged over equipment lifecycle to determine the continued use or replacement status of equipment 
+
+[View project on github](https://github.com/rengro46/voice-quality)
 
 ---
 
