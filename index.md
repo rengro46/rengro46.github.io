@@ -36,7 +36,7 @@ Consolidation and remediation of company outdated software asset portfolio and t
 
 ###  Design & deployment of workstation & server asset service record review system for Managed services clients
 
-Using the current asset management sytem inventory databases (SCCM, AD, MDM, Intune etc.) to populate the Service Record Review DataLake, which is then used to compare asset info in ServiceNow for Warranty info, incidents & service requests logged over equipment lifecycle to determine the continued use or replacement status of equipment 
+Using the current asset management sytem inventory databases (SCCM, AD, MDM, Intune, Solarwinds etc.) to populate the Service Record Review DataLake, which is then used to compare asset info in ServiceNow for Warranty status, incidents & service requests logged over past 12 months to determine the continued use or replacement status of equipment 
 
 [View project on github](https://github.com/rengro46/voice-quality)
 
