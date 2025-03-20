@@ -34,7 +34,7 @@ Consolidation and remediation of company outdated software asset portfolio and t
 
 ---
 
-###  Design & deployment of workstation & server asset service record review system for Managed services clients
+###  Design & deployment of asset service record review system for Managed Services clients
 
 Using the current asset management sytem inventory databases (SCCM, AD, MDM, Intune, Solarwinds etc.) to populate the Service Record Review DataLake, which is then used to compare asset info in ServiceNow for Warranty status, incidents & service requests logged over past 12 months to determine the continued use or replacement status of equipment 
 
