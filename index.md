@@ -4,7 +4,7 @@
 
 ## Security Projects
 
-<img src="images/cybersecurity-design.jpg?"/>
+<img src="images/cybersecurity-design.jpg?raw=true" width=500 height=600/>
 
 ---
 
@@ -26,7 +26,7 @@ Investigate the reasons for aged (>60days) vulnerabilities to still exist, ident
 
 ## Platform Architecture Projects
 
-<img src="images/platform-architecture.jpg?"/>
+<img src="images/platform-architecture.jpg?raw=true"/>
 
 ---
 
