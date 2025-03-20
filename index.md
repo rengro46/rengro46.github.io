@@ -4,7 +4,7 @@
 
 ## Security Projects
 
-<img src="images/cybersecurity-design.jpg?raw=true"/>
+<img src="images/cybersecurity-design.jpg?"/>
 
 ---
 
