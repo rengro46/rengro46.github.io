@@ -2,8 +2,7 @@
 
 ---
 
-## Security Projects
-<img source = "images/cybersecurity-design.jpg?raw=true"/>
+## Security Projects <img source = "images/cybersecurity-design.jpg?raw=true"/>
 
 ---
 
