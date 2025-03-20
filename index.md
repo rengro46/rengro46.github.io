@@ -26,7 +26,7 @@ Investigate the reasons for aged (>60days) vulnerabilities to still exist, ident
 
 ## Platform Architecture Projects
 
-<img src="images/cloud-architecture.jpg?"/>
+<img src="images/platform-architecture.jpg?"/>
 
 ---
 
