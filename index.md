@@ -64,7 +64,7 @@ The development of a web portal to create a consolidated view of user accounts a
 
 ### Pro-forma invoice to initiate client's monthly order creation process 
 
-Web Portal System for the automated creation of a pro-forma invoice by extracting info via client's Service Management API, using a Python Panda to consolidate info regarding service requests and monthly fixed billing line items onto the resulting PDF document which is then ploaded to client's billing system for validation and ingestion. 
+Web Portal System for the automated creation of a pro-forma invoice by extracting info via client's Service Management API, using a Python Panda to consolidate info regarding service requests and monthly fixed billing line items onto the resulting PDF document which is then uploaded to client's billing system for validation and ingestion. 
 
 [View project on github](https://github.com/rengro46/voice-quality)
 
