@@ -39,7 +39,7 @@ Investigate the reasons for aged (>60days) vulnerabilities to still exist, ident
 
 ### Voice Quality Monitoring
 
-The creation of a voice quality monitoring sytem to track and report on real time quality metrics for Voice traffic on Managed Customer Call Centre environments and assit Voice Engineers to perform early detection and remediation of any Voice traffic anomalies
+The creation of a voice quality monitoring system to track and report on real time quality metrics for Voice traffic on Managed Customer Call Centre environments and assit Voice Engineers to perform early detection and remediation of any Voice traffic anomalies
 
 [View project on github](https://github.com/rengro46/voice-quality)
 
