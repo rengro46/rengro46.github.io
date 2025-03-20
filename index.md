@@ -23,6 +23,8 @@ Investigate the reasons for aged (>60days) vulnerabilities to still exist, ident
 
 ## Platform Architecture Projects
 
+---
+
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
@@ -43,6 +45,13 @@ The creation of a voice quality monitoring sytem to track and report on real tim
 
 ---
 
+### SAP Account consolidation across all customer SAP instances
+
+The development of a web portal to create a consolidated view of user accounts across all customer SAP instances to aid in the timely removal of accounts where access is no longer required for a user to a specific SAP instance
+
+[View project on github](https://github.com/rengro46/voice-quality)
+
+---
 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
