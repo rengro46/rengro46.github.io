@@ -20,7 +20,7 @@ Checking the current set of communication encryption algorithms in use (Data in 
 
 Investigate the reasons for aged (>60days) vulnerabilities to still exist, identify the reasons for these vuilnerabilities to still exist, and compile a remediation plan for those addressable with priorities and categorisations
 
-[View on github](https://rengro46.github.io/voice-quality/)
+[View on github](https://rengro46.github.io/aged-vulnerabilities/)
 
 ---
 
