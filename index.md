@@ -34,7 +34,7 @@ Investigate the reasons for aged (>60days) vulnerabilities to still exist, ident
 
 Consolidation and remediation of company outdated software asset portfolio and the automation of future inventory updates
 
-[View on github](https://rengro46.github.io/voice-quality/)
+[View on github](https://rengro46.github.io/software-review/)
 
 ---
 
