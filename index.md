@@ -72,7 +72,7 @@ The creation of a voice quality monitoring system to track and report on real ti
 
 The development of a web portal to create a consolidated view of user accounts across all customer SAP instances to aid in the timely removal of accounts where access is no longer required for a user to a specific SAP instance
 
-[View on github](https://rengro46.github.io/voice-quality/)
+[View on github](https://rengro46.github.io/SAP-accounts/)
 
 ---
 
