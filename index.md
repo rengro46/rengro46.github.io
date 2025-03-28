@@ -56,7 +56,7 @@ Creating an API standard to be used by the business for all future System platfo
 
 ## Product Manager Projects
 
-<img src="images/product-management.png?raw=true" width=850 height=400/>
+<img src="images/product-management.png?raw=true" width=850 height=300/>
 
 ---
 
