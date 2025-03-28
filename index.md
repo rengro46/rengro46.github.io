@@ -89,7 +89,7 @@ Web Portal System for the automated creation of a pro-forma invoice by extractin
 
 Creation of an automated mailer sytem to initate a measurement of customer satisfaction after the closure of an incident on Service Now. The client would receive an email pertaining to the closed incident and request the client to click on either a happy or sad face icon embedded in the email message. These icons were in turn linked back to an api endpoints which would then record status and save to a database. The database used for status records would be used to auto trigger escalation processes to the appropriate client's Service Delivery Manager/Client Services Manager for any sad responses returned. 
 
-[View on github](https://rengro46.github.io/voice-quality/)
+[View on github](https://rengro46.github.io/CSS/)
 
 ---
 
