@@ -50,7 +50,7 @@ Using the current asset management sytem inventory databases (SCCM, AD, MDM, Int
 
 Creating an API standard to be used by the business for all future System platform integration efforts. Previous efforts have resulted in myn one=to-one integrations being performed which inevitably led to duplication of effort and reduced security, due to the lack of prescribed security standards for the integration efforts. Using Microsoft's APIM standard, it was now possible to apply standards and a unified method using API endpoints and RBAC for enforcing strict permission based access across multiple systems.
 
-[View on github](https://rengro46.github.io/voice-quality/)
+[View on github](https://rengro46.github.io/APIM/)
 
 ---
 
