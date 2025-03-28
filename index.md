@@ -42,7 +42,7 @@ Consolidation and remediation of company outdated software asset portfolio and t
 
 Using the current asset management sytem inventory databases (SCCM, AD, MDM, Intune, Solarwinds etc.) to populate the Service Record Review DataLake, which is then used to compare asset info in ServiceNow for Warranty status, incidents & service requests logged over past 12 months to determine the continued use or replacement status of equipment 
 
-[View on github](https://rengro46.github.io/voice-quality/)
+[View on github](https://rengro46.github.io/CMS/)
 
 ---
 
