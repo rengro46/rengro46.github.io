@@ -26,7 +26,7 @@ Investigate the reasons for aged (>60days) vulnerabilities to still exist, ident
 
 ## Platform Architecture Projects
 
-<img src="images/platform-architecture.jpg?raw=true" width=650 height=450/>
+<img src="images/platform-architecture.jpg?raw=true" width=250 height=300/>
 
 ---
 
@@ -56,7 +56,7 @@ Creating an API standard to be used by the business for all future System platfo
 
 ## Product Manager Projects
 
-<img src="images/product-management.png?raw=true" width=550 height=300/>
+<img src="images/product-management.png?raw=true" width=450 height=300/>
 
 ---
 
