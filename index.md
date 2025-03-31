@@ -64,6 +64,8 @@ Creating an API standard to be used by the business for all future System platfo
 
 Amazon Connect is a cloud-based contact center service designed to provide seamless customer interactions across multiple channels. This project aims to develop a custom omnichannel client that integrates voice, chat, email, and a ServiceNow feed into a single unified interface, enhancing agent productivity and improving customer experience.
 
+[View on github](https://rengro46.github.io/onminchannel-client/)
+
 ---
 
 ### Voice Quality Monitoring
