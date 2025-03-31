@@ -60,6 +60,12 @@ Creating an API standard to be used by the business for all future System platfo
 
 ---
 
+### Amazon Connect omnichannel client
+
+Amazon Connect is a cloud-based contact center service designed to provide seamless customer interactions across multiple channels. This project aims to develop a custom omnichannel client that integrates voice, chat, email, and a ServiceNow feed into a single unified interface, enhancing agent productivity and improving customer experience.
+
+---
+
 ### Voice Quality Monitoring
 
 The creation of a voice quality monitoring system to track and report on real time quality metrics for Voice traffic on Managed Customer Call Centre environments and assit Voice Engineers to perform early detection and remediation of any Voice traffic anomalies
