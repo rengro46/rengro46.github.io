@@ -30,7 +30,7 @@ Investigate the reasons for aged (>60days) vulnerabilities to still exist, ident
 
 ---
 
-### Update of Company Software Portfolio Management System
+### Company Software Asset Portfolio review
 
 Consolidation and remediation of company outdated software asset portfolio and the automation of future inventory updates
 
